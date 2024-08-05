@@ -2,7 +2,7 @@
 
 > **Language**: React JavaScript
 
-> **Description**: A simple page to get random animals; when clicking on the heart icon, the icon will get bigger every time.
+> **Description**: A simple page to get random animals; when clicking on the heart icon, the icon will get bigger every time. To start the project, please run for `npm start`.
 
 > **Project preview**:
 
